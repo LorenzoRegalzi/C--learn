@@ -1,0 +1,15 @@
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.deps.json
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.json
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.dll
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ref/ConsoleApp1.dll
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/bin/Debug/net5.0/ConsoleApp1.pdb
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.AssemblyInfo.cs
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.dll
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ref/ConsoleApp1.dll
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.pdb
+/Users/lorenzoregalzi/Projects/ConsoleApp1/ConsoleApp1/obj/Debug/net5.0/ConsoleApp1.genruntimeconfig.cache
